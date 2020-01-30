@@ -1,0 +1,25 @@
+  <style >
+ #urdu {
+    font-family: "Urdu Nastaliq";
+    }
+
+ th{
+    color: white;
+    font-size: 10px
+  }
+  td{
+    font-size: 10px
+  }
+  thead{
+      background-image: linear-gradient(to left top, #1f4f4f, #1c666d, #157d8e, #1494b3, #28abda);
+  }
+  .card{
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);border-radius: 25px;
+  }
+
+  ul.tree, ul.tree ul { list-style-type: none; background: #fff url(http://odyniec.net/articles/turning-lists-into-trees/vline.png) repeat-y; margin: 0; padding: 0; } ul.tree ul { margin-left: 10px; } ul.tree li { margin: 0; padding: 2px 12px; line-height: 15px; background: url(http://odyniec.net/articles/turning-lists-into-trees/node.png) no-repeat; color: #369; font-weight: bold; } ul.tree li.last {
+     background: #fff url(http://odyniec.net/articles/turning-lists-into-trees/lastnode.png) no-repeat;
+   }
+
+
+   </style>

@@ -1,0 +1,10 @@
+<style type="text/css">
+    table.dataTable thead>tr>th.sorting.a-n:after, table.dataTable thead>tr>th.sorting.b-n:before,table.dataTable thead .sorting_asc.a-n:before, table.dataTable thead .sorting_desc.b-n:after, 
+    table.dataTable thead .sorting_desc.a-n:before, table.dataTable thead .sorting_asc.b-n:after{
+    display: none !important;
+    cursor: none !important;
+  }
+   table.dataTable thead>tr>th.sorting.a-n, table.dataTable thead>tr>th.sorting.b-n, table.dataTable thead .sorting_asc.a-n, table.dataTable thead .sorting_desc.b-n{
+      cursor: none !important;
+    }
+</style> 

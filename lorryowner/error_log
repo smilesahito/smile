@@ -1,0 +1,4 @@
+[08-Nov-2018 06:26:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/xolva/public_html/lorrynlorry/classes/db.class.php on line 20
+[08-Nov-2018 06:26:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/xolva/public_html/lorrynlorry/classes/db.class.php on line 20
+[08-Nov-2018 06:26:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/xolva/public_html/lorrynlorry/classes/db.class.php on line 20
+[19-Nov-2018 06:55:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/xolva/public_html/lorrynlorry/classes/db.class.php on line 20
